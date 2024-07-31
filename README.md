@@ -15,5 +15,7 @@
 # Technologies used 🛠️
 
 Python
+
 HTML
+
 CSS
