@@ -5,8 +5,11 @@
 # Sections
 
 ✔️ Beautiful Login Page
+
 ✔️ Forgot Password help
+
 ✔️ Inbuilt Database
+
 ✔️ no server required for running
 
 # Technologies used 🛠️
